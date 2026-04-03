@@ -1,0 +1,13 @@
+[project]
+name = "git-testing-project"
+version = "0.0.1"
+description = "testing-git installation "
+requires-python = ">=3.13.2"
+dependencies = [
+    "jupyter",
+    ]
+
+[tool.gennaker]
+name = "git testing project"
+
+[tool.gennaker.launcher]
